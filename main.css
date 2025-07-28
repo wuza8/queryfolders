@@ -1,0 +1,32 @@
+
+:root {
+  --color-primary: #fff; /* blue-400 */
+  --color-secondary: #ddd; /* purple-300 */
+  --color-tcolor: black;
+  --color-third: #fff;
+  --color-fourth: #ccc;
+  --color-accent: #aaa;
+}
+
+.dark {
+  --color-primary: #2c2c2d; 
+  --color-secondary: #212121;
+  --color-tcolor: #b8b8b8;
+  --color-third: #262626;
+  --color-fourth: #323336;
+  --color-accent: #414141;
+  --color-windinactive: #262626;
+}
+
+
+@config "./tailwind.config.ts";
+
+
+@import "tailwindcss";
+
+.drag-region {
+  -webkit-app-region: drag; /* <- pozwala przeciągać okno */
+}
+.nodrag-region {
+  -webkit-app-region: no-drag;
+}
