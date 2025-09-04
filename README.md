@@ -1,13 +1,21 @@
 <div align="center">
-    <img src="images/queryfolders-logo.png" alt="Logo" width="200" style="text-align:center"/><br>
+    <img src="images/queryfolders-logo.png" alt="Logo" width="300" style="text-align:center"/><br>
     A desktop app that helps finding specific folder types using the power of AI
 </div>
 
-## Overview
-At this moment none other option except LM Studio as provider is implemented, if you want least resistance, run LM Studio with only one model loaded (tested on Phi 3.5) and default port on localhost. 
+## Overview :book:
+The main function this program does, is reading the structures of files on your local PC and prompt engineer single folders asking:
 
+<div align="center">
+   <h3>Is this folder an X? Does this folder contain a X? </h3> 
+</div> 
+<br>
+That gives the user an intelligent search engine for messy folders such as <b>Downloads</b> or <b>Documents</b>. It gets bad especially in an age, where you measure storage in terabytes :chart_with_upwards_trend:
 
-## Running
+## Demo :desktop_computer:
+Below you can see a sample video how the program works:
+
+## Launching on your machine :rocket: 
 
 This project is in development, to run it as dev, use:
 
