@@ -1,6 +1,6 @@
 <div align="center">
     <img src="images/queryfolders-logo.png" alt="Logo" width="200" style="text-align:center"/><br>
-    A desktop app that helps finding specific folder types using LLM prompt engineering
+    A desktop app that helps finding specific folder types using the power of AI
 </div>
 
 ## Overview
