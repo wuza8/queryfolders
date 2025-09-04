@@ -14,8 +14,7 @@
 
 ## Overview :book:
 
-A desktop app that helps finding specific folder types using the power of AI
-The main function this program does, is reading the structures of files on your local PC and prompt engineer single folders asking
+A desktop app that helps finding specific folder types using the power of AI. It reads the structures of files on your local PC and prompt engineer single folders asking
 
 <div align="center">
    <h3>Is this folder an X? Does this folder contain a X? </h3> 
